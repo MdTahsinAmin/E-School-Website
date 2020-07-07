@@ -38,7 +38,7 @@
     margin-left: 2%;
 }
 .getstarted-btn{
-    color: white;
+   color: white;
   background-color: #21B573;
   border-radius: 33px; 
   padding: 12px 40px;
@@ -47,4 +47,122 @@
 }
 .right-col{
     padding-right: 150px;
+}
+.container{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.online-class-header{
+    text-align: center;
+}
+.online-class-header6{
+    text-align: center;
+    color: gray;
+}
+.online-first-row{
+    margin-top: 5%;
+}
+.online-class-design0{
+ text-align: center;
+background-image: url("images/desing1.jpg");
+ background-repeat: no-repeat;
+ padding-top: 40px;
+ padding-bottom: 80px;
+ padding-left: 20px;
+ border-radius: 10px;
+ color:cyan;
+}
+.online-class-design1{
+ text-align: center;
+background-image: url("images/bussines1.jpg");
+ background-repeat: no-repeat;
+ padding-top: 40px;
+padding-bottom: 80px;
+ border-radius: 10px;
+ padding-left: 20px;
+ color:blue;
+
+}
+.online-class-design2{
+ text-align: center;
+background-image: url("images/programming.jpg");
+ background-repeat: no-repeat;
+ padding-top: 40px;
+ padding-bottom: 60px;
+ border-radius: 10px;
+ padding-left: 20px;
+ color:lightcoral;
+
+}
+.online-class-design3{
+ text-align: center;
+background-image: url("images/coding.jpg");
+ background-repeat: no-repeat;
+ padding-top: 40px;
+ padding-bottom: 85px;
+ border-radius: 10px;
+ padding-left: 20px;
+ color:lightsalmon;
+}
+.online-class-design4{
+ text-align: center;
+background-image: url("images/photo.jpg");
+ background-repeat: no-repeat;
+ padding-top: 40px;
+padding-bottom: 80px;
+ border-radius: 10px;
+ padding-left: 20px;
+ color:lime;
+
+}
+.online-class-design5{
+ text-align: center;
+background-image: url("images/audio\ and\ music.jpg");
+ background-repeat: no-repeat;
+ padding-top: 40px;
+padding-bottom: 80px;
+ border-radius: 10px;
+ padding-left: 30px;
+ colo:#21B573;
+
+}
+.online-class-design6{
+ text-align: center;
+background-image: url("images/marking.jpg");
+ background-repeat: no-repeat;
+ padding-top: 40px;
+ padding-bottom: 80px;
+ border-radius: 10px;
+ padding-left: 20px;
+ color:#F0FFF0;
+}
+.online-class-design7{
+ text-align: center;
+background-image: url("images/web.jpg");
+ background-repeat: no-repeat;
+ padding-top: 40px;
+ padding-bottom: 85px;
+ border-radius: 10px;
+ padding-left: 20px;
+ color:purple;
+}
+.visit-more-coures{
+ text-decoration: none;
+ text-align: center;
+ border-radius: 33px; 
+ padding: 12px 28px;
+  margin-left: 10px;
+}
+.card-deck{
+    margin-top: 55px;
+}
+.card{
+    border-radius: 30px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card img{
+    padding: 12px 12px;
+    width: 100%;
 }
