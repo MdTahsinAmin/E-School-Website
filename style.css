@@ -1,0 +1,13 @@
+/* singup*/
+
+.singup-btn{
+  color: white;
+  background-color: #21B573;
+  border-radius: 33px; 
+  padding: 12px 28px;
+  border: none;
+  margin-left: 10px;
+}
+.navbar-nav{
+    margin-right: 10px ;
+}
