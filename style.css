@@ -1,8 +1,41 @@
+
 body{
     font-family: 'Poppins', sans-serif;
+     background-color: #FFFFFF;
 }
-/* singup*/
+.bar{
+    background-color: #F0FFF0;
+    padding-top: 1%;
+}
+.menu-area{
+    padding-top: 20px;
+}
+.menu-content{
+    background-color:#F0FFF0;
+    margin-left: 1px;
+}
+.boby-area{
+    padding: 100px 0;
+}
+.first-title{
+    margin-bottom: 15px;
+}
+.second-title{
+    font-size: 40px;
+    line-height: 70px;
+    color: #000000;
+    font-weight: 700;
 
+}
+.second-title span{
+    color: #21B573;
+}
+.title-img img{
+    width: 100%;
+}
+.hero-text p{
+    font-size: 14px;
+}
 .singup-btn{
     background-color: #2FA470;
     border-radius: 30px;
@@ -32,8 +65,7 @@ body{
     margin-right: 25px ;
 }
 .left-contain{
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 30px;
 }
 .header-fontsize{
     font-size: 40px;
@@ -243,9 +275,6 @@ background-image: url("images/web.jpg");
     transition: all .6s ease-in-out;
 }
 .signup_btn-3:hover{
-    background-color: #666666;
-}
-.singup-btn:hover{
     background-color: #666666;
 }
 .section_padding{
