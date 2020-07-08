@@ -1,12 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 /* singup*/
 
 .singup-btn{
-  color: white;
-  background-color: #21B573;
-  border-radius: 33px; 
-  padding: 12px 28px;
-  border: none;
-  margin-left: 10px;
+    background-color: #2FA470;
+    border-radius: 30px;
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    transition: all .6s ease-in-out;
 }
 /*header*/
 .header{
@@ -38,7 +44,7 @@
     margin-left: 2%;
 }
 .getstarted-btn{
-   color: white;
+  color: white;
   background-color: #21B573;
   border-radius: 33px; 
   padding: 12px 40px;
@@ -47,6 +53,32 @@
 }
 .right-col{
     padding-right: 150px;
+}
+.single_box img{
+    width: 80px;
+    height: 83px;
+}
+.single_box{
+    margin: 25px 0;
+    background-color: #F0FFF0;
+    border-radius: 16px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    transition: all .3s ease-in-out;
+}
+.single_box h5{
+    padding-top: 20px;
+    color: #413960;
+}
+.single_box p{
+    color: #585859;
+}
+.single_box:hover{
+    background-color:#F0FFF0;
+    box-shadow: 10px 10px 40px #413960;
+    border: none;
+    overflow: hidden;
 }
 .container{
     margin-top: 5%;
@@ -71,6 +103,12 @@ background-image: url("images/desing1.jpg");
  padding-left: 20px;
  border-radius: 10px;
  color:cyan;
+
+}
+.online-class-design0:hover{
+    box-shadow: 10px 10px 40px #413960;
+    border: none;
+    overflow: hidden;
 }
 .online-class-design1{
  text-align: center;
@@ -81,7 +119,11 @@ padding-bottom: 80px;
  border-radius: 10px;
  padding-left: 20px;
  color:blue;
-
+}
+.online-class-design1:hover{
+  box-shadow: 10px 10px 40px #09084b;
+    border: none;
+    overflow: hidden;
 }
 .online-class-design2{
  text-align: center;
@@ -92,17 +134,26 @@ background-image: url("images/programming.jpg");
  border-radius: 10px;
  padding-left: 20px;
  color:lightcoral;
-
+}
+.online-class-design2:hover{
+    box-shadow: 10px 10px 40px lightgreen;
+    border: none;
+    overflow: hidden;
 }
 .online-class-design3{
  text-align: center;
-background-image: url("images/coding.jpg");
+ background-image: url("images/coding.jpg");
  background-repeat: no-repeat;
  padding-top: 40px;
  padding-bottom: 85px;
  border-radius: 10px;
  padding-left: 20px;
- color:lightsalmon;
+ color:#2FA470;
+}
+.online-class-design3:hover{
+    box-shadow: 10px 10px 40px #413960;
+    border: none;
+    overflow: hidden;
 }
 .online-class-design4{
  text-align: center;
@@ -146,6 +197,27 @@ background-image: url("images/web.jpg");
  padding-left: 20px;
  color:purple;
 }
+.online-class-design4:hover{
+     box-shadow: 10px 10px 40px #413960;
+    border: none;
+    overflow: hidden;
+}
+.online-class-design5:hover{
+     box-shadow: 10px 10px 40px orange;
+    border: none;
+    overflow: hidden;
+}
+.online-class-design6:hover{
+   box-shadow: 10px 10px 40px #413960;
+    border: none;
+    overflow: hidden;
+}
+.online-class-design7:hover{
+   box-shadow: 10px 10px 40px #413960;
+    border: none;
+    overflow: hidden;
+}
+
 .visit-more-coures{
  text-decoration: none;
  text-align: center;
@@ -156,13 +228,75 @@ background-image: url("images/web.jpg");
 .card-deck{
     margin-top: 55px;
 }
-.card{
+.signup_btn-3{
+    background-color: #2FA470;
     border-radius: 30px;
-    background-color: #FFFFFF;
-    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
-    border-radius: 18px;
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    transition: all .6s ease-in-out;
 }
-.card img{
-    padding: 12px 12px;
-    width: 100%;
+.signup_btn-3:hover{
+    background-color: #666666;
+}
+.singup-btn:hover{
+    background-color: #666666;
+}
+.section_padding{
+    padding: 100px 0 0 0;
+}
+.card_content{
+    border-radius: 15px;
+    background: white;
+    box-shadow: 10px 10px 40px #ddd;
+    border: none;
+    overflow: hidden;
+    padding:20px;
+}
+.card_text{
+    padding: 15px 0;
+}
+.card_text h5{
+    font-weight: 500;
+    color: #413960;
+}
+.card_text{
+    color: #585859;
+}
+.card_icon span{
+    padding: 20px 0 10px 0;
+    font-size: 16px;
+    color: #585859;
+}
+.online-courses2{
+    color: #413960;
+    margin-bottom: 30px;
+}
+.visit-more-courses{
+    text-align: center;
+    margin-top: 45px;
+    color: blue;
+    padding: 12px 30px;
+    border-radius: 24px;
+    background-color: white;
+    border: rgb(214, 212, 209);
+}
+.visit-more-courses:hover{
+  border: none;
+  background-color:blue;
+  color: #F0FFF0;
+}
+.testimonial-img img{
+      width: 120px;
+      height: 120px;
+     vertical-align: middle;
+    padding-left: 10px;
+   
+}
+.textiimoial-text{
+   margin-top: 15px;
+   color: gray;
 }
