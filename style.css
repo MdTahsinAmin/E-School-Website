@@ -111,7 +111,23 @@ body{
 }
 .single_box:hover{
     background-color:#F0FFF0;
-    box-shadow: 10px 10px 40px #413960;
+    box-shadow: 10px 10px 40px grey;
+    border: none;
+    overflow: hidden;
+}
+.single-course{
+    margin: 25px 0;
+    background-color: #F0FFF0;
+    border-radius: 16px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    color: orange;
+    transition: all .3s ease-in-out;
+}
+.single-course:hover{
+    background-color:#b5dfb5;
+    box-shadow: 10px 10px 40px grey;
     border: none;
     overflow: hidden;
 }
@@ -129,130 +145,90 @@ body{
 .online-first-row{
     margin-top: 5%;
 }
-.online-class-design0{
- text-align: center;
+.onilne-course1{
 background-image: url("images/desing1.jpg");
  background-repeat: no-repeat;
  padding-top: 40px;
- padding-bottom: 80px;
- padding-left: 20px;
- border-radius: 10px;
- color:cyan;
-
-}
-.online-class-design0:hover{
-    box-shadow: 10px 10px 40px #413960;
-    border: none;
-    overflow: hidden;
-}
-.online-class-design1{
- text-align: center;
-background-image: url("images/bussines1.jpg");
- background-repeat: no-repeat;
- padding-top: 40px;
-padding-bottom: 80px;
+padding-bottom: 53px;
  border-radius: 10px;
  padding-left: 20px;
  color:blue;
+ border: none;
 }
-.online-class-design1:hover{
-  box-shadow: 10px 10px 40px #09084b;
-    border: none;
-    overflow: hidden;
+.onilne-course2{
+background-image: url("images/bussines1.jpg");
+ background-repeat: no-repeat;
+ padding-top: 40px;
+padding-bottom: 53px;
+ border-radius: 10px;
+ padding-left: 20px;
+ color:blue;
+ border: none;
 }
-.online-class-design2{
- text-align: center;
+.onilne-course3{
 background-image: url("images/programming.jpg");
  background-repeat: no-repeat;
  padding-top: 40px;
- padding-bottom: 60px;
+padding-bottom: 53px;
  border-radius: 10px;
  padding-left: 20px;
- color:lightcoral;
+ color:blue;
+ border: none;
 }
-.online-class-design2:hover{
-    box-shadow: 10px 10px 40px lightgreen;
-    border: none;
-    overflow: hidden;
-}
-.online-class-design3{
- text-align: center;
+.onilne-cours4{
  background-image: url("images/coding.jpg");
  background-repeat: no-repeat;
  padding-top: 40px;
- padding-bottom: 85px;
+padding-bottom: 53px;
  border-radius: 10px;
  padding-left: 20px;
- color:#2FA470;
+ color:blue;
+ border: none;
 }
-.online-class-design3:hover{
-    box-shadow: 10px 10px 40px #413960;
-    border: none;
-    overflow: hidden;
-}
-.online-class-design4{
- text-align: center;
+
+.onilne-course5{
+
 background-image: url("images/photo.jpg");
  background-repeat: no-repeat;
  padding-top: 40px;
-padding-bottom: 80px;
+padding-bottom: 53px;
  border-radius: 10px;
  padding-left: 20px;
- color:lime;
-
+ color:blue;
+ border: none;
 }
-.online-class-design5{
- text-align: center;
+.onilne-course6{
+ 
 background-image: url("images/audio\ and\ music.jpg");
  background-repeat: no-repeat;
  padding-top: 40px;
-padding-bottom: 80px;
+padding-bottom: 53px;
  border-radius: 10px;
- padding-left: 30px;
- color:#21B573;
+ padding-left: 20px;
+ color:blue;
+ border: none;
 
 }
-.online-class-design6{
- text-align: center;
+.onilne-course7{
 background-image: url("images/marking.jpg");
  background-repeat: no-repeat;
  padding-top: 40px;
- padding-bottom: 80px;
+padding-bottom: 53px;
  border-radius: 10px;
  padding-left: 20px;
- color:#F0FFF0;
+ color:blue;
+ border: none;
 }
-.online-class-design7{
- text-align: center;
+.onilne-cours8{
 background-image: url("images/web.jpg");
  background-repeat: no-repeat;
  padding-top: 40px;
- padding-bottom: 85px;
+padding-bottom: 53px;
  border-radius: 10px;
  padding-left: 20px;
- color:purple;
+ color:blue;
+ border: none;
 }
-.online-class-design4:hover{
-     box-shadow: 10px 10px 40px #413960;
-    border: none;
-    overflow: hidden;
-}
-.online-class-design5:hover{
-     box-shadow: 10px 10px 40px orange;
-    border: none;
-    overflow: hidden;
-}
-.online-class-design6:hover{
-   box-shadow: 10px 10px 40px #413960;
-    border: none;
-    overflow: hidden;
-}
-.online-class-design7:hover{
-   box-shadow: 10px 10px 40px #413960;
-    border: none;
-    overflow: hidden;
-}
-
 .visit-more-coures{
  text-decoration: none;
  text-align: center;
