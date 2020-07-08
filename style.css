@@ -25,6 +25,9 @@ body{
     padding-bottom: 50px;
     border-radius: 15px;
 }
+.hero_img img{
+    width: 100%;
+}
 .navbar-nav{
     margin-right: 25px ;
 }
@@ -174,7 +177,7 @@ background-image: url("images/audio\ and\ music.jpg");
 padding-bottom: 80px;
  border-radius: 10px;
  padding-left: 30px;
- colo:#21B573;
+ color:#21B573;
 
 }
 .online-class-design6{
@@ -299,4 +302,27 @@ background-image: url("images/web.jpg");
 .textiimoial-text{
    margin-top: 15px;
    color: gray;
+}
+.description{
+     background-color: #282531;
+     color: #ffffff;
+}
+.description-content{
+    margin: 70px 0;
+}
+.description-content p{
+    font-size: 11px;
+    line-height: 40px;
+}
+.description-content ul li{
+    list-style: none;
+    font-size: 15px;
+    line-height: 40px;
+
+}
+footer{
+    margin-top: 0px;
+    text-align:center;
+    color:white;
+    font-size: 20px;
 }
