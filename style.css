@@ -349,9 +349,15 @@ background-image: url("images/web.jpg");
     line-height: 40px;
 
 }
+.studnet-feadback{
+    margin-top: 10px;
+}
 footer{
     margin-top: 0px;
     text-align:center;
     color:white;
     font-size: 20px;
+}
+.footer-img{
+    margin-bottom: 1%;
 }
